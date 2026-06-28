@@ -1,14 +1,41 @@
-# Portfolio Responsive Complete
-## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
-### Portfolio Responsive Complete
+# Personal Portfolio Website
 
-- Responsive Personal Portfolio Website HTML CSS & JavaScript.
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+## About the Project
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+This is my personal portfolio website developed using HTML, CSS, and JavaScript. The website showcases my skills, projects, certifications, education, and contact information in a modern and responsive design.
 
-![preview img](/preview.png)
+## Features
 
+- Responsive design for mobile, tablet, and desktop devices
+- Smooth scrolling navigation
+- Interactive user interface
+- Project showcase section
+- Skills and certifications section
+- Contact information section
+- Clean and modern design
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Live Demo
+
+Add your GitHub Pages or deployed website link here.
+
+## Sections Included
+
+- Home
+- About Me
+- Skills
+- Projects
+- Certifications
+- Contact
+
+## Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/gitikasuseela27/portfolio.git
