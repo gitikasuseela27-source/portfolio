@@ -32,3 +32,7 @@ Add your GitHub Pages or deployed website link here.
 - Projects
 - Certifications
 - Contact
+
+## Preview
+
+![Portfolio Preview](Screenshot%202026-06-28%20140732.png)
